@@ -1,0 +1,24 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node app8.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-/issues"
+  },
+  "homepage": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
