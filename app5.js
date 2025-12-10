@@ -3,14 +3,14 @@
 import { actualizarPerfil } from "./modules/actualizarperfil.js";
 
 // Perfil inicial
-const perfil = { nombre: "Jensen", edad: 20, ciudad: "Girón" };
+const perfil = { nombre: "Michael", edad: 18, ciudad: "Girón" };
 
 // Actualizaciones parciales
 const perfilActualizado = actualizarPerfil(
 perfil,
 { edad: 22 },
-{ ciudad: "Medellín" },
-{ hobby: "Programación" }
+{ ciudad: "cartagena" },
+{ hobby: "micro" }
 );
 
 // Mostrar resultados

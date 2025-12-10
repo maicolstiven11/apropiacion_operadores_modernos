@@ -4,7 +4,7 @@ import { procesarPedido } from "./modules/procesarPedido.js";
 // Importa la función procesarPedido desde el archivo de módulos
 
 const pedido = {
-cliente: "Jensen",
+cliente: "Maicol",
 producto: "Laptop",
 cantidad: 2
 };

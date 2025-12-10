@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-.git"
+    "url": "git+https://github.com/maicolstiven11/apropiacion_operadores_modernos.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-/issues"
+    "url": "https://github.com/maicolstiven11/apropiacion_operadores_modernos-/issues"
   },
-  "homepage": "https://github.com/Jensen1109/apropiaci-n_del_conocimiento_Operadores-Modernos-#readme",
+  "homepage": "https://github.com/maicolstiven11/apropiacion_operadores_modernos-#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
