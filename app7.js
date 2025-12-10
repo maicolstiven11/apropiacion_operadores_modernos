@@ -14,6 +14,7 @@ const valores = entrada.split(",").map(v => v.trim());
 // Llamamos a la función evaluar
 const promedio = evaluar(...valores);
 
+
 // Mostramos resultados si es válido
 if (promedio !== undefined) {
 console.log("Promedio calculado:", promedio);
